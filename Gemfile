@@ -21,9 +21,9 @@ gem 'jbuilder',                   '2.2.11'
 gem 'jquery-rails',               '4.1.1'
 gem 'sass-rails',                 '~> 5.0', '>= 5.0.6'
 gem 'turbolinks',                 '2.5.3'
-gem 'uglifier',                   '2.7.1'
+gem 'uglifier', '2.7.1'
 
-gem 'carrierwave',                '0.11.2'
+gem 'carrierwave', '0.11.2'
 gem 'certified',                  '1.0.0'
 gem 'chronic',                    '0.10.2'
 gem 'ckeditor',                   '4.1.6'
@@ -39,7 +39,7 @@ gem 'rails-i18n',                 '4.0.9'
 gem 'underscore-rails',           '1.8.3'
 
 gem 'friendly_id', '~> 5.1.0'
-gem 'sdoc', '0.4.1', group: :doc
+gem 'sdoc', '1.0.0', group: :doc
 
 gem 'font-awesome-sass'
 
@@ -75,7 +75,7 @@ end
 group :test do
   gem 'database_cleaner'
   gem 'selenium-webdriver', '2.53.4'
-  gem 'simplecov', require: false
+  gem 'simplecov', '>= 0.12.0', require: false
 end
 
 group :production do
