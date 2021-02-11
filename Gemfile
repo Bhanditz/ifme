@@ -3,7 +3,7 @@
 source 'https://rubygems.org'
 ruby '2.3.4'
 
-gem 'rails',                      '4.2.9'
+gem 'rails', '6.0.3.5'
 
 gem 'bcrypt',                     '3.1.11'
 gem 'devise',                     '~> 4.1'
