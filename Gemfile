@@ -19,7 +19,7 @@ gem 'compass-rails',              '3.0.2'
 gem 'foundation-rails',           '6.2.3.0'
 gem 'jbuilder',                   '2.2.11'
 gem 'jquery-rails',               '4.1.1'
-gem 'sass-rails',                 '~> 5.0', '>= 5.0.6'
+gem 'sass-rails', '~> 6.0', '>= 6.0.0'
 gem 'turbolinks',                 '2.5.3'
 gem 'uglifier',                   '2.7.1'
 
