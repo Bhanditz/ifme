@@ -11,7 +11,7 @@ gem 'devise_invitable',           '1.6.0'
 gem 'devise_uid',                 '0.1.1'
 gem 'pg',                         '0.18.4'
 gem 'resque',                     '1.26.0'
-gem 'resque-scheduler',           '4.2.0'
+gem 'resque-scheduler', '4.10.2'
 gem 'resque_mailer',              '2.3.0'
 
 gem 'bootstrap-datepicker-rails', '1.6.1.1'
