@@ -62,7 +62,7 @@ group :development, :test do
   gem 'factory_girl_rails',         '~> 4.7'
   gem 'jasmine',                    '2.4.0'
   gem 'rspec-collection_matchers',  '1.1.2'
-  gem 'rspec-rails',                '~> 3.4'
+  gem 'rspec-rails', '~> 8.0', '>= 8.0.0'
   gem 'ruby-graphviz',              '1.2.2'
 
   gem 'letter_opener'
